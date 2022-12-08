@@ -6,6 +6,7 @@
 * _Phone: +375 25 750-56-11_
 * _Email: Ruslan.gorbach93@gmail.com_
 *  *Telegram: @bigboss_ruslan*
+
 =========================================================
 
 ## About Me:
@@ -20,16 +21,19 @@ __I study this programming language and everything connected with it, I am very 
 * JavaScript (Basic)
 * BEM
 * Git
+
 ==========================================================
 
 ## Work experience:
 ***looking for a job***
+
 ===============================================================
 
 ## Education
 * Courses at school IT OVERONE
 * JavaScript https://learn.javascript.ru/
 * Courses at school The Rolling Scopes
+
 ================================================================
 
 ## Language:
