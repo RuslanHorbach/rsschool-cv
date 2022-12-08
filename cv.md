@@ -1,5 +1,4 @@
 # Ruslan Horbach 
-========================================================
 
 ## Contacts: 
 * _Location: Minsk, Belarus_
@@ -7,7 +6,7 @@
 * _Email: Ruslan.gorbach93@gmail.com_
 *  *Telegram: @bigboss_ruslan*
 
-=========================================================
+
 
 ## About Me:
 __I am a Frontend developer and am currently looking for new opportunities.__
@@ -22,19 +21,19 @@ __I study this programming language and everything connected with it, I am very 
 * BEM
 * Git
 
-==========================================================
+
 
 ## Work experience:
 ***looking for a job***
 
-===============================================================
+
 
 ## Education
 * Courses at school IT OVERONE
 * JavaScript https://learn.javascript.ru/
 * Courses at school The Rolling Scopes
 
-================================================================
+
 
 ## Language:
 * English level - A1
