@@ -3,4 +3,8 @@ body{
 	border-radius: 5px solid red;
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
+	font-family: 'Delius Unicase', cursive;
 }
+* {
+	box-sizing: border-box;
+ }
