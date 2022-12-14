@@ -61,6 +61,7 @@ li:last-child {
 main {
 	/* align-self:center ; */
 	border-bottom: 3px solid #9f7e6c;
+	padding-bottom: 20px;
 }
 .main__profile {
 	display: flex;
@@ -117,6 +118,15 @@ main {
 	color: #381d0c;
 	opacity: 1;
 }
+
+
+.main__education a{
+	display: block;
+	text-decoration: none;
+	padding: 0px 0px 15px 0px;
+}
+
+
 
 
 
