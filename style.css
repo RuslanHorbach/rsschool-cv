@@ -1,5 +1,6 @@
 * {
 	box-sizing: border-box;
+	color: inherit;
 }
 html {
 	scroll-behavior: smooth; 
@@ -68,6 +69,7 @@ main {
 	gap: 20px;
 	background-color: #f7f2da94;
 	padding: 40px 0px 50px 0px;
+	border-bottom: 3px solid #9f7e6c;
 }
 .main__img {
 	width: 300px;
@@ -89,4 +91,35 @@ main {
 }
 
 
-/* ======================MAIN=========================*/
+/* ======================summary=========================*/
+.main__tit {
+	text-transform: uppercase;
+	
+}
+.main__summary{ 
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 10px;
+	padding: 0px 0px 0px 10px;
+
+}
+.main__contacts {
+	padding: 0px 0px ;
+}
+.main__contacts a {
+	display: block;
+	text-decoration: none;
+	padding: 0px 0px 10px 0px;
+
+}
+.main__contacts a:hover{
+	text-decoration: underline;
+	color: #381d0c;
+	opacity: 1;
+}
+
+.main__about {
+}
+
+
+/* ======================summary=========================*/
