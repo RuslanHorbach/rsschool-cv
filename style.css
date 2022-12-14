@@ -81,8 +81,7 @@ main {
 	background-size: cover;
 
 }
-.main__about {
-}
+
 .main__title {
 	font-size: 36px;
 }
@@ -131,3 +130,27 @@ main {
 
 
 /* ======================summary=========================*/
+
+
+.footer__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 0px ;
+}
+.footer__link {
+	padding: 0px 0px 0px 15px;
+	text-decoration: none;
+	transition: all .3s;
+}
+.footer__link:hover{
+	text-decoration: underline;
+	color: #381d0c;
+	font-weight: 700;
+}
+
+
+.footer__logo img {
+	width: 150px;
+	height: 50px;
+}
