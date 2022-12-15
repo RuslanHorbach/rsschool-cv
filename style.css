@@ -112,6 +112,9 @@ main {
 	padding: 0px 0px 10px 0px;
 
 }
+.main__list li {
+	padding: 0px 0px 10px 0px;
+}
 .main__contacts a:hover{
 	text-decoration: underline;
 	color: #381d0c;
